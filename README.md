@@ -66,8 +66,8 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSacryCat&show_icons=true&locale=en&layout=compact" alt="DevSacryCat"/>
-<img src="https://github-readme-stats.vercel.app/api?username=DevSacryCat&show_icons=true&locale=en" alt ="DevSacryCat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devscarycat&show_icons=true&locale=kr&layout=compact" alt="DevSacryCat"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devscarycat&show_icons=true&locale=kr" alt ="DevSacryCat" />
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
