@@ -66,8 +66,8 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bicorn-chris&show_icons=true&locale=en&layout=compact" alt="bicorn- 크리스"/>
-<img src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSacryCat&show_icons=true&locale=en&layout=compact" alt="DevSacryCat"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevSacryCat&show_icons=true&locale=en" alt ="DevSacryCat" />
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
