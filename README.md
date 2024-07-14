@@ -60,9 +60,9 @@
 <h1 align="center">👋 I'm Chris :)</h1>
 <h3 align="center">寧敎我負天下人,休敎天下人負我</h3>
 
-- 🔭 현재 PocketBase와 Next Js를 이용한 사이드 프로젝트를 "Touch Flow"를 개발중에 있습니다.
+- 🔭 칼리리눅스 탐색중
 
-- 🤝 추후 Golang을 이용하여 블록체인 기반 기술을 이용한 사이드 프로젝트를 만들 예정입니다.
+- 🤝 RN / kail / block
 
 - 💬 I'm a teapot 418🫖
 
