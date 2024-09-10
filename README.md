@@ -57,8 +57,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-<h1 align="center">👋 I'm Chris :)</h1>
-<h3 align="center">寧敎我負天下人,休敎天下人負我</h3>
+<h1 align="center">👋 I'm Devscarycat :)</h1>
+<h3 align="center">슈웃하자</h3>
 
 - 🔭 KAIL & SQL research
 
