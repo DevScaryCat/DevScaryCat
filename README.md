@@ -60,7 +60,7 @@
 <h1 align="center">👋 I'm Chris :)</h1>
 <h3 align="center">寧敎我負天下人,休敎天下人負我</h3>
 
-- 🔭 칼리리눅스 탐색중
+- 🔭 KAIL & SQL research
 
 - 🤝 RN / kail / block
 
