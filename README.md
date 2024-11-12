@@ -58,7 +58,7 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 <h1 align="center">👋 I'm Devscarycat :)</h1>
-<h3 align="center">슈웃하자</h3>
+<h3 align="center">I fear no man. If you breathe oxygen, it's fair game</h3>
 
 - 🔭 KAIL & SQL research
 
