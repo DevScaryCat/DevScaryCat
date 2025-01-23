@@ -60,9 +60,9 @@
 <h1 align="center">👋 I'm Devscarycat :)</h1>
 <h3 align="center">I fear no man. If you breathe oxygen, it's fair game</h3>
 
-- 🔭 KAIL & SQL research
+- 🔭 Rn / DRF
 
-- 🤝 RN / kail / block
+- 🤝 RN / DRF
 
 - 💬 I'm a teapot 418🫖
 
