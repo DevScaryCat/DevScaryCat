@@ -69,3 +69,6 @@
 <p align="right">
 <a href="https://instagram.com/devscarycat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devscarycat" height="30" width="40" /></a>
 
+
+
+![Snake animation](https://github.com/DevScaryCat/DevScaryCat/raw/output/github-contribution-grid-snake-dark.svg)
