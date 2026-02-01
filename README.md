@@ -72,7 +72,7 @@
 
 - ⚡ 재미있는 사실 : 부천시 중동로
 
-![Space Shooter](https://github.com/devscarycat/devscarycat/blob/main/space-shooter.gif?raw=true)
+![Space Shooter](https://github.com/DevScaryCat/DevScaryCat/blob/main/gh-space-shooter.gif?raw=true)
 
 <br>
 <br>
