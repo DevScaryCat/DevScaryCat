@@ -60,17 +60,6 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 <h1 align="center">👋 I'm Devscarycat :)</h1>
-<h3 align="center">I fear no man. If you breathe oxygen, it's fair game</h3>
-
-- 🔭 Rn / DRF
-
-- 🤝 RN / DRF
-
-- 💬 I'm a teapot 418🫖
-
-- 📫 contact 050-6990-2968(KR)
-
-- ⚡ 재미있는 사실 : 부천시 중동로
 
 ![Space Shooter](https://github.com/DevScaryCat/DevScaryCat/blob/main/gh-space-shooter.gif?raw=true)
 
