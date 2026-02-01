@@ -59,18 +59,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-<h1 align="center">👋 I'm Devscarycat :)</h1>
-
 ![Space Shooter](https://github.com/DevScaryCat/DevScaryCat/blob/main/gh-space-shooter.gif?raw=true)
 
+<h1 align="center">👋 I'm Devscarycat :)</h1>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devscarycat&theme=codeSTACKr&show_icons=true&locale=kr&layout=compact" alt="DevSacryCat"/>
-<img src="https://github-readme-stats.vercel.app/api?username=devscarycat&theme=codeSTACKr&show_icons=true&locale=kr" alt ="DevSacryCat" />
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://instagram.com/devscarycat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devscarycat" height="30" width="40" /></a>
-<a href="chris1382chris1382chris1382 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devscarycat" height="30" width="40" /></a>
-<a href="https://fb.com/chris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chris" height="30" width="40" /></a>
-</p>
+
