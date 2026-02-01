@@ -72,6 +72,8 @@
 
 - ⚡ 재미있는 사실 : 부천시 중동로
 
+![Space Shooter](https://github.com/devscarycat/devscarycat/blob/main/space-shooter.gif?raw=true)
+
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devscarycat&theme=codeSTACKr&show_icons=true&locale=kr&layout=compact" alt="DevSacryCat"/>
