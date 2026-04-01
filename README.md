@@ -62,13 +62,8 @@
 ![Space Shooter](https://github.com/DevScaryCat/DevScaryCat/blob/main/gh-space-shooter.gif?raw=true)
 
 <h1 align="center">👋 I'm Devscarycat :)</h1>
-<br>
-<br>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://instagram.com/devscarycat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devscarycat" height="30" width="40" /></a>
 
-
-
-![Snake animation](https://github.com/DevScaryCat/DevScaryCat/raw/output/github-contribution-grid-snake-dark.svg)
