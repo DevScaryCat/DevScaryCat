@@ -1,3 +1,5 @@
+<h1 align="center">👋 I'm Devscarycat :)</h1>
+
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -60,8 +62,6 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ![Space Shooter](https://github.com/DevScaryCat/DevScaryCat/blob/main/gh-space-shooter.gif?raw=true)
-
-<h1 align="center">👋 I'm Devscarycat :)</h1>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
